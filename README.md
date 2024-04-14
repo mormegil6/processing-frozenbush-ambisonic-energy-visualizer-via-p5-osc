@@ -9,37 +9,37 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 ## Installation
 
 1. Install the [Processing IDE](https://processing.org/)
-
+    
 2. Install P5.js mode in the Processing IDE: 
-
-<img src="https://i.ibb.co/42KnsTT/2024-02-19-01-10-56-Using-OSC-messages-in-Processing-in-p5-js-mode-p5-js-Libraries-Processing.png" width="500" />
-
+    
+    <img src="https://i.ibb.co/42KnsTT/2024-02-19-01-10-56-Using-OSC-messages-in-Processing-in-p5-js-mode-p5-js-Libraries-Processing.png" width="500" />
+    
 3. Install [Node.js](https://nodejs.org/)
-
+    
 4. Install [git](https://git-scm.com/)
-
+    
 5. Add the Large File Support (LFS) and longpaths to the git environment: 
-
-```
-git lfs install
-git config --system core.longpaths true
-git config --global core.protectNTFS false
-```
-
+    
+    ```
+    git lfs install
+    git config --system core.longpaths true
+    git config --global core.protectNTFS false
+    ```
+    
 6. Clone the [p5js-osc repository](https://github.com/genekogan/p5js-osc) and install it:
-
-```
-git clone https://github.com/genekogan/p5js-osc
-cd p5js-osc/
-npm install
-```
-
+    
+    ```
+    git clone https://github.com/genekogan/p5js-osc
+    cd p5js-osc/
+    npm install
+    ```
+    
 7. Download the `FrozenBush_p5osc.js` script and the accompanying packages from this repository
-
+    
 8. Install the VST host of your choice
-
+    
 9. Install the [IEM Plug-in Suite](https://plugins.iem.at/)
-
+    
 ## Getting started
 
 1. Open the OSC node from the p5js-osc installation directory:
