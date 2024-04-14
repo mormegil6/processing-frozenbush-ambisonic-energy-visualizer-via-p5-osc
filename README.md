@@ -62,7 +62,6 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
     <img src="https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4" />
 
 
-
 ## Support
 
 All questions, comments and insights please address to me via e-mail: bartlomiej.mroz@pg.edu.pl
