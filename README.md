@@ -1,6 +1,6 @@
 # Processing - FrozenBush ambisonic energy visualizer via p5 osc
 
-This script visualizes ambisonic energy as the so-called "frozen bush", animating the IEM EnergyVisualizer's OSC messages onto p5.js canvas.
+This script visualizes ambisonic energy as the so-called "Frozen Bush", animating the IEM EnergyVisualizer's OSC messages onto p5.js canvas.
 
 ## Description
 
