@@ -11,8 +11,7 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 1. Install the [Processing IDE](https://processing.org/)
 
 2. Install P5.js mode in the Processing IDE: 
-
-![Processing modes menu](https://i.ibb.co/42KnsTT/2024-02-19-01-10-56-Using-OSC-messages-in-Processing-in-p5-js-mode-p5-js-Libraries-Processing.png)
+<img src="https://i.ibb.co/42KnsTT/2024-02-19-01-10-56-Using-OSC-messages-in-Processing-in-p5-js-mode-p5-js-Libraries-Processing.png" width="400" />
 
 3. Install [Node.js](https://nodejs.org/)
 
