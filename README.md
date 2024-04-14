@@ -4,7 +4,7 @@ This script visualizes ambisonic energy as the so-called "Frozen Bush", processe
 
 ## Description
 
-This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.org/sketch/413567)" P5.js OpenProcessing sketch. In this version, the animation is not excited by the mouse pointer, but by the ambisonic soundfield energy from the 426 values from the points on the IEM [EnergyVisualizer's grid](https://plugins.iem.at/docs/energyvisualizergrid/). These values are fed to the script via the [P5.js OSC node](https://github.com/genekogan/p5js-osc/).
+This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.org/sketch/413567)" P5.js OpenProcessing sketch. In this version, the animation is not excited by the mouse pointer, but by the ambisonic soundfield energy sampled on the 426 points on the IEM [EnergyVisualizer's grid](https://plugins.iem.at/docs/energyvisualizergrid/). These values are fed to the script via the [P5.js OSC node](https://github.com/genekogan/p5js-osc/).
 
 ## Installation
 
