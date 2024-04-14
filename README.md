@@ -11,6 +11,7 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 1. Install the [Processing IDE](https://processing.org/)
 
 2. Install P5.js mode in the Processing IDE: 
+
 ![Processing modes menu](https://i.ibb.co/42KnsTT/2024-02-19-01-10-56-Using-OSC-messages-in-Processing-in-p5-js-mode-p5-js-Libraries-Processing.png)
 
 3. Install [Node.js](https://nodejs.org/)
@@ -18,6 +19,7 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 4. Install [git](https://git-scm.com/)
 
 5. Add the Large File Support (LFS) and longpaths to the git environment: 
+
 ```
 git lfs install
 git config --system core.longpaths true
@@ -25,6 +27,7 @@ git config --global core.protectNTFS false
 ```
 
 6. Clone the [p5js-osc repository](https://github.com/genekogan/p5js-osc) and install it:
+
 ```
 git clone https://github.com/genekogan/p5js-osc
 cd p5js-osc/
@@ -40,6 +43,7 @@ npm install
 ## Getting started
 
 1. Open the OSC node from the p5js-osc installation directory:
+
 ```
 node .\bridge.js
 ```
@@ -54,13 +58,7 @@ This will ensure the OSC connectivity between the P5.js script and the other sys
 
 4. Play the audio and observe the animation! :) 
 
-<figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="frozenbush_animation_example.mp4" type="video/mp4">
- </video>
-</figure>
-
-[<img src="https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4" width="600"/>](https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4)
+![](https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4)
 
 
 
