@@ -58,7 +58,7 @@ This will ensure the OSC connectivity between the P5.js script and the other sys
 
     <img src="https://i.ibb.co/x7L9vTW/2024-04-10-14-46-43-unsaved-project-REAPER-v7-14-Registered-to-Bart-omiej-Mr-z-Licensed-for-p.png" width="500" />
     
-4. Play the audio and observe the animation! :) 
+4. Play the audio and observe the animation! :slightly_smiling_face:
 
 <img src="https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4" />
 
