@@ -1,5 +1,4 @@
-[![PyPI](https://img.shields.io/badge/python-3.9-blue.svg)]() [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=flat)]() [![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white&style=flat)]() [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black&style=flat)]() [![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c&style=flat)]() [![CC BY SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
+[![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&style=flat)]() [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=flat)]() [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Processing - FrozenBush ambisonic energy visualizer via p5 osc
 
