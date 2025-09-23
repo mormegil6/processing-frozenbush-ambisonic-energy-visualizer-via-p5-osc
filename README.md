@@ -1,3 +1,5 @@
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&style=flat) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=flat) [![CC BY 4.0][cc-by-shield]][cc-by]
+
 # Processing - FrozenBush ambisonic energy visualizer via p5 osc
 
 This script visualizes ambisonic energy as the so-called "Frozen Bush", processed with the IEM EnergyVisualizer onto p5.js canvas via OSC messages.
@@ -67,8 +69,6 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 All questions, comments and insights please address to me via e-mail: bartlomiej.mroz@pg.edu.pl
 
 ## License
-
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
