@@ -60,6 +60,7 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 4. Play the audio and observe the animation! :slightly_smiling_face:
     
     <img src="https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4" />
+    
     ![test](https://git.pg.edu.pl/p829296/processing-frozenbush-ambisonic-energy-visualizer-via-p5-osc/-/raw/main/frozenbush_animation_example.mp4)
 
 
