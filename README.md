@@ -81,7 +81,7 @@ This work is licensed under a
 
 ## Additional info
 
-For the detailed usage of the p5js-osc script, I recommend checknig out my other tutorial on this: https://discourse.processing.org/t/using-osc-messages-in-processing-in-p5-js-mode/43871/2
+For the detailed usage of the p5js-osc script, I recommend checking out my other tutorial on this: https://discourse.processing.org/t/using-osc-messages-in-processing-in-p5-js-mode/43871/2
 
 I recommend checking out Daniel Rudrich's script for real-time visualizations of EnergyVisualizer's data via OSC in Processing: https://github.com/DanielRudrich/EnergyVisualizerOscDemo
 
