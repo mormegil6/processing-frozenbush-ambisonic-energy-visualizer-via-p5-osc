@@ -1,4 +1,4 @@
-![p5js](https://img.shields.io/badge/p5.js-ED225D?logo=p5.js&style=flat) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=flat) [![CC BY 4.0][cc-by-shield]][cc-by]
+[![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&style=flat)]() [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&style=flat)]() [![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Processing - FrozenBush ambisonic energy visualizer via p5 osc
 
