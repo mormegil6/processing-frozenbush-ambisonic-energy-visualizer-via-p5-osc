@@ -64,9 +64,9 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
     ![](frozenbush_animation_example.mp4)
 
 
-## Support
+## Contact
 
-All questions, comments and insights please address to me via e-mail: bartlomiej.mroz@pg.edu.pl
+Bartłomiej Mróz · bartlomiej.mroz@pg.edu.pl · [bmroz.eu](https://bmroz.eu) · Department of Multimedia Systems, Gdańsk University of Technology
 
 ## License
 
