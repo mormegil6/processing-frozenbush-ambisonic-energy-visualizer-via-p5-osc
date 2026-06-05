@@ -66,7 +66,7 @@ This script is based off on Jason Labbe's "[Frozen Bush](https://openprocessing.
 
 ## Contact
 
-Bartłomiej Mróz · bartlomiej.mroz@pg.edu.pl · [bmroz.eu](https://bmroz.eu) · Department of Multimedia Systems, Gdańsk University of Technology
+Bartłomiej Mróz · bartlomiej.mroz@pg.edu.pl · Department of Multimedia Systems, Gdańsk University of Technology · [bmroz.eu](https://bmroz.eu)
 
 ## License
 
